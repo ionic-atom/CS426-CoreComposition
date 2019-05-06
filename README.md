@@ -2,13 +2,21 @@
 
 ### Overview
 
-Hello, Ash and Adam here. We made this game, at first our scale for completion was too large. As we got into the groove of our work flow, there was no way that we were going to be able to finish the original vision. There had to be cuts, we will bring you through what the game ended up being, which we think is pretty cool. One final note before we jump into the game, creating our game has given us a deeper understanding of what was needed from us versus what we thought we had to do. This will be explored later on.
+Hello, Ash and Adam here. We made this game!
 
 At the farthest view possible, our game is a 2-D, semi top-down, bullet hell. The "story" is centered around not only the player (you) but the bosses. The bosses and the biomes associated with them are the most important part of this game. You must venture through different biomes looking for the bosses causing havoc in this peaceful world of geometry.
+
+At first, our scale for completion was too large. As we got into the groove of our work flow, there was no way that we were going to be able to finish the original vision. There had to be cuts, we will bring you through what the game ended up being, which we think is pretty cool. One final note before we jump into the game, creating our game has given us a deeper understanding of what was needed from us versus what we thought we had to do. This will be explored later on.
 
 The name CoreComposition comes from this games art, focusing on geometrical shapes and how the bosses progress. 
 	
 ### Main Features (why is your game interesting and different)
+
+Lets discuss the character first. Usually in bullet hells everyone is shooting them, but not our character, he is purely melee. He uses his dashes to crash into the enemies firing upon him, its like bringing a knife to a gunfight. But our characters dash is unique to him, he is the pentagonal warrior and his dashes are so strong he is invulnerable while the dash lasts.
+
+Now onto the bosses. As you defeat bosses, the next boss you fight will inherit all the previous bosses attacks, as well as being aided by smaller versions of those previous bosses. The difficultly curves up pretty well.
+
+Finally, our biomes have unique traits about them that you must traverse, some deadly, some annoying, and some are needed for progression.
 	
 ### Gameplay (characters and resources)
 	
