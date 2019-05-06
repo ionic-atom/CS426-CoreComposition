@@ -2,17 +2,17 @@
 
 Webpages introducing your game; (70%)
 
-##overview
+## overview
 	
-##main features (why is your game interesting and different)
+## main features (why is your game interesting and different)
 	
-##gameplay (characters and resources)
+## gameplay (characters and resources)
 	
-##User Interface & Controls
+## User Interface & Controls
 	
-##Main difficulties/challenges (both technical and non-technical)
+## Main difficulties/challenges (both technical and non-technical)
 	
-##future plans
+## future plans
 
 	- this outline is similar to your final presentation template
 	- use as many pictures as possible to explain and show your game 
@@ -27,7 +27,7 @@ Webpages introducing your game; (70%)
 
 a video showing the game play (30%)
 
-##Video
+## Video
 
 	- either use screen capture software, e.g., fraps,
 		or you can dump image sequence and make a movie from it
@@ -35,10 +35,10 @@ a video showing the game play (30%)
 
 Optional: a teaser for this game (10%)
 
-##Teaser
+## Teaser
 
 Send me a link (e.g. github/google drive/dropbox link) to your source code
 
-##Source Code
+## Source Code
 	- you can put this link on your webpage if you like to make your game open sourced 
 		but it is not required
