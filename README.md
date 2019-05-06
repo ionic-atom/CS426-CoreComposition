@@ -1,4 +1,4 @@
-# CS426-CoreComposition
+# CoreComposition
 
 ## Introduction (70%)
 
