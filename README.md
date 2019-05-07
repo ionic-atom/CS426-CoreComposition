@@ -21,6 +21,14 @@ Finally, our biomes have unique traits about them that you must traverse, some d
 ### Gameplay (characters and resources)
 	
 ### User Interface & Controls
+
+Health - The health of the player is located in the top left corner, displayed as a circle with rings. Everytime you take damage a ring will turn grey.
+
+Stamina - The stamina of the player is underneath of the health in the left corner of the screen. You have three dashes and you must use them all before your stamina will recharge. When the middle triangle is yellow you may dash.
+
+Movement - WASD controls the movement of the player.
+
+Attacking (Dashing) - Is done by tapping the space bar which will increase your movement, making you invincible, and it will allow you to deal damage when you slam into enemies.
 	
 ### Main Difficulties/Challenges (both technical and non-technical)
 	
