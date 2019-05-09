@@ -19,6 +19,14 @@ Now onto the bosses. As you defeat bosses, the next boss you fight will inherit 
 Finally, our biomes have unique traits about them that you must traverse, some deadly, some annoying, and some are needed for progression.
 	
 ### Gameplay (characters and resources)
+
+The characters are described in more detail above, but here are some base overviews.
+
+The main character (you), using his high powered dash to topple enemies.
+
+The bosses will bombard you with bullets and other unique attacks.
+
+Our resources as described below are health and stamina.
 	
 ### User Interface & Controls
 
@@ -31,7 +39,18 @@ Movement - WASD controls the movement of the player.
 Attacking (Dashing) - Is done by tapping the space bar which will increase your movement, making you invincible, and it will allow you to deal damage when you slam into enemies.
 	
 ### Main Difficulties/Challenges (both technical and non-technical)
+
+*Techincal Difficulties:
+	*Perlin - used to generate the ground, trees, mushrooms, ect. Getting a random effect from a pseudo random noise function took a good bit of time
+	*Creating Generic Codes for everything
+	*Dealing with Unity
 	
+*Non-Techincal Difficulties:
+	*Making a 'complete' game
+	*Motivation
+	*Learning how to work together on a huge project
+	*Art/Animation
+
 ### Future Plans
 
 	- this outline is similar to your final presentation template
