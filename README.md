@@ -40,16 +40,16 @@ Attacking (Dashing) - Is done by tapping the space bar which will increase your 
 	
 ### Main Difficulties/Challenges (both technical and non-technical)
 
-*Techincal Difficulties:
-	*Perlin - used to generate the ground, trees, mushrooms, ect. Getting a random effect from a pseudo random noise function took a good bit of time
-	*Creating Generic Codes for everything
-	*Dealing with Unity
+* Techincal Difficulties:
+	* Perlin - used to generate the ground, trees, mushrooms, ect. Getting a random effect from a pseudo random noise function took a good bit of time
+	* Creating Generic Codes for everything
+	* Dealing with Unity
 	
-*Non-Techincal Difficulties:
-	*Making a 'complete' game
-	*Motivation
-	*Learning how to work together on a huge project
-	*Art/Animation
+* Non-Techincal Difficulties:
+	* Making a 'complete' game
+	* Motivation
+	* Learning how to work together on a huge project
+	* Art/Animation
 
 ### Future Plans
 
