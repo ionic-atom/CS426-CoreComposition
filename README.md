@@ -53,19 +53,8 @@ Attacking (Dashing) - Is done by tapping the space bar which will increase your 
 
 ### Future Plans
 
-**Before we go through our future plans, there are none for this game. We are going to use the concepts we learned here and use this as a prototype for another game**
+**There are none for this game. We are going to use the concepts we learned here and use this as a prototype for another game**
 
-
-	- this outline is similar to your final presentation template
-	- use as many pictures as possible to explain and show your game 
-		pictures of main menu
-		pictures of your characters
-		pictures of your game environments
-		pictures of winning/losing states
-		...
-	- write about improvements after the final demo
-	- treat this as an important component in your portfolio
-		if you are interested in finding a game-related job
 
 # Images
 ![mainmenu](https://user-images.githubusercontent.com/36140831/57784286-ad6e4800-76fd-11e9-899a-4f5a907edcd5.png)
@@ -82,15 +71,6 @@ Attacking (Dashing) - Is done by tapping the space bar which will increase your 
 	
 # Video (30%)
 
-	- a video showing the game play
-	- either use screen capture software, e.g., fraps,
-		or you can dump image sequence and make a movie from it
-	- embed the movie (e.g. using youtube) to your report above
-
-# Teaser (Optional, 10%)
-
 # Source Code (Optional)
 
-	- Send me a link (e.g. github/google drive/dropbox link) to your source code
-	- you can put this link on your webpage if you like to make your game open sourced 
-		but it is not required
+Not open Source
