@@ -69,16 +69,16 @@ Attacking (Dashing) - Is done by tapping the space bar which will increase your 
 
 # Images
 	![Main Menu](https://github.com/ionic-atom/CoreComposition/blob/master/images/mainmenu.png)
-	![Character] (https://github.com/ionic-atom/CoreComposition/blob/master/images/character.png)
-	![Boss1] (https://github.com/ionic-atom/CoreComposition/blob/master/images/boss1.png)
-	![candyland] (https://github.com/ionic-atom/CoreComposition/blob/master/images/candy.png)
-	![Boss2] (https://github.com/ionic-atom/CoreComposition/blob/master/images/boss2.png)
-	![mushroom] (https://github.com/ionic-atom/CoreComposition/blob/master/images/mushroom.png)
-	![Boss3] (https://github.com/ionic-atom/CoreComposition/blob/master/images/boss3.png)
-	![desert] (https://github.com/ionic-atom/CoreComposition/blob/master/images/desert.png)
-	![Boss4] (https://github.com/ionic-atom/CoreComposition/blob/master/images/boss4.png)
-	![mountain] (https://github.com/ionic-atom/CoreComposition/blob/master/images/mountain.png)
-	![Boss5] (https://github.com/ionic-atom/CoreComposition/blob/master/images/boss5.png)
+	![Character](https://github.com/ionic-atom/CoreComposition/blob/master/images/character.png)
+	![Boss1](https://github.com/ionic-atom/CoreComposition/blob/master/images/boss1.png)
+	![candyland](https://github.com/ionic-atom/CoreComposition/blob/master/images/candy.png)
+	![Boss2](https://github.com/ionic-atom/CoreComposition/blob/master/images/boss2.png)
+	![mushroom](https://github.com/ionic-atom/CoreComposition/blob/master/images/mushroom.png)
+	![Boss3](https://github.com/ionic-atom/CoreComposition/blob/master/images/boss3.png)
+	![desert](https://github.com/ionic-atom/CoreComposition/blob/master/images/desert.png)
+	![Boss4](https://github.com/ionic-atom/CoreComposition/blob/master/images/boss4.png)
+	![mountain](https://github.com/ionic-atom/CoreComposition/blob/master/images/mountain.png)
+	![Boss5](https://github.com/ionic-atom/CoreComposition/blob/master/images/boss5.png)
 	
 # Video (30%)
 
